@@ -1,0 +1,13 @@
+*.env
+flask-app/bin/
+flask-app/lib/
+flask-app/lib64/
+flask-app/include/
+flask-app/share/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.venv
